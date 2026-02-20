@@ -11,13 +11,13 @@ Download the wdp cli distribution and install.
 #### MacOS, Linux, WSL
 
 ```bash
-curl -o- https://cli.choreo.dev/install.sh | bash
+curl -o- https://raw.githubusercontent.com/wso2/wdp-cli/main/scripts/install.sh | bash
 ```
 
 #### Windows
 
 ```bash
-iwr https://cli.choreo.dev/install.ps1 -useb | iex
+iwr https://raw.githubusercontent.com/wso2/wdp-cli/main/scripts/install.ps1 -useb | iex
 ```
 
 ### Download from GitHub
